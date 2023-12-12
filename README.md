@@ -1,6 +1,9 @@
 # Unity-SDS CLI
 
+ 
  A CLI for the Unity Platform
+
+ This github repository and archive is now archived. Please see https://github.com/unity-sds/unity-py for more up-to-date tooling for interacting with the Unity system.
 
 ## Setup / env
 
